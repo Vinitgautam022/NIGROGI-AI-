@@ -1,0 +1,4 @@
+Last Updated: April 22, 2026 - 23:15 UTC
+Version: v1.1 - Multilingual Triage with Dashboard
+Features: Language detection, Triage scoring, Doctor directory, City input, Precautions
+Status: Ready for Render redeploy
